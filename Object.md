@@ -117,4 +117,6 @@ If we use the prototype pattern, we can make use of the things like.
 
 #### what is **proto** ?
 
-So this is a refrenece to property of a `prototype` up the prototype chain, which points to `Object.prototype`
+So this is a reffrence to property of a `prototype` up the prototype chain, which points to `Object.prototype`
+
+
